@@ -1,4 +1,7 @@
 main(){
-  add();
+  add(){
+    return a+b;
+  }
   sub();
+  div();
 }

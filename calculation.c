@@ -1,11 +1,21 @@
 main(){
   add(){
     return a+b;
-  }fgdg
+
+  }
+
+  }
+
+  sub();
+  div(){
+    rturn a/b
+  }
+
+
   sub(){
     return a-b;
   }
   div();
+
 }
-something
-wqwqyaugsuasb
+

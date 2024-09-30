@@ -3,5 +3,7 @@ main(){
     return a+b;
   }
   sub();
-  div();
+  div(){
+    rturn a/b
+  }
 }

@@ -2,6 +2,8 @@ main(){
   add(){
     return a+b;
   }
-  sub();
+  sub(){
+    return a-b;
+  }
   div();
 }

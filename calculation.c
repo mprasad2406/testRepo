@@ -1,6 +1,9 @@
 main(){
   add(){
     return a+b;
+
+  }
+
   }
 
   sub();
@@ -8,10 +11,11 @@ main(){
     rturn a/b
   }
 
+
   sub(){
     return a-b;
   }
   div();
 
 }
-something
+

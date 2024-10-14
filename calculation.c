@@ -8,7 +8,7 @@ main(){
 
   sub();
   div(){
-    rturn a/b
+    return a/b;
   }
 
 
